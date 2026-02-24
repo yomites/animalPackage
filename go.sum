@@ -2,3 +2,5 @@ github.com/yomites/dog v0.0.0-20260224204628-ff809c379822 h1:dqxZD5qz6B5r7Skgguo
 github.com/yomites/dog v0.0.0-20260224204628-ff809c379822/go.mod h1:iTCPvhs6SuDYHnQEUtq9jrbo9lPStbsCZ5GuU8SC2K8=
 github.com/yomites/puppy v0.0.0-20260224210520-6bd907089f86 h1:8Vv7z9Anburga2+f0ZqxWbCKuSsavBVWGOqb4bXddNI=
 github.com/yomites/puppy v0.0.0-20260224210520-6bd907089f86/go.mod h1:ltLcKI1ay3DBUUL/ih4oBPSISxlAT7HCufisUDoAEUk=
+github.com/yomites/puppy v1.2.0 h1:aBeggV5G2XaT+Rb+JUoj2r9e7gnuwlgT2KQTWcZNHzM=
+github.com/yomites/puppy v1.2.0/go.mod h1:ltLcKI1ay3DBUUL/ih4oBPSISxlAT7HCufisUDoAEUk=
