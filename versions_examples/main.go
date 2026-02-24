@@ -1,5 +1,7 @@
 package main
 
+import "fmt"
+
 func main() {
-	println("Hello, we are working on git versions")
+	fmt.Println("Hello, we are working on git versions")
 }
