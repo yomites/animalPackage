@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	println("Hello, we are working on versions")
+	println("Hello, we are working on git versions")
 }
